@@ -1,0 +1,23 @@
+{
+  "name": "1live",
+  "version": "1.0.0",
+  "description": "1live.",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://www1.wdr.de/radio/1live/",
+    "serviceName": "Radio 1live",
+    "message": "bla bla",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
